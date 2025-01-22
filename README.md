@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matthewnichols8
-- 👀 I’m interested in embedded systems!
+- 👀 I’m interested in embedded systems and programming!
 - 🌱 I’m currently learning STM32 Microcontrollers
 - 💞️ I’m looking to collaborate on Embedded Programming
 - 📫 How to reach me ... https://www.linkedin.com/in/matthew-nichols-45a157305/ 
