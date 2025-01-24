@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matthewnichols8
-- 👀 I’m interested in embedded systems and programming!
-- 🌱 I’m currently learning STM32 Microcontrollers
+- 👋 Hi, I’m Matthew Nichols!
+- 👀 I’m interested in Embedded Systems and Programming!
+- 🌱 I’m currently learning how to program STM32 Microcontrollers on STM32CubeIDE
 - 💞️ I’m looking to collaborate on Embedded Programming
 - 📫 How to reach me ... https://www.linkedin.com/in/matthew-nichols-45a157305/ 
 - ⚡ Fun fact: I like polar bears!
